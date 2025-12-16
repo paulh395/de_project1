@@ -1,0 +1,2 @@
+2025-12-15 22:11:08,639 - __main__ - INFO - Requesting data from TFL API, params: year=2015, url=https://api.tfl.gov.uk/AccidentStats/20152015
+2025-12-15 22:11:09,123 - __main__ - ERROR - Non-retryable request error, error: 400 Client Error: Bad Request for url: https://api.tfl.gov.uk/AccidentStats/20152015?app_id=my_app123&app_key=dbc1e5de0c284acf826a23d067fc8aca
